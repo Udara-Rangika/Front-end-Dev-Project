@@ -1,0 +1,25 @@
+.button {
+    all: unset;
+    align-items: flex-start;
+    background-color: #f28d35;
+    border-radius: 4px;
+    box-sizing: border-box;
+    display: inline-flex;
+    gap: 8px;
+    padding: 12px 20px;
+    position: relative;
+  }
+  
+  .button .get-free {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: -0.28px;
+    line-height: 14px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  

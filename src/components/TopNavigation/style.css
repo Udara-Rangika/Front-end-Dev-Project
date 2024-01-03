@@ -1,0 +1,38 @@
+.top-navigation {
+    align-items: center;
+    background-color: #6b3cc9;
+    display: flex;
+    justify-content: space-between;
+    padding: 26px 80px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .top-navigation .logo {
+    height: 36.11px;
+    margin-top: -11.11px;
+    position: relative;
+    width: 238.89px;
+  }
+  
+  .top-navigation .frame {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 28px;
+    position: relative;
+  }
+  
+  .top-navigation .text-wrapper {
+    color: #ffffff;
+    font-family: var(--body-1-font-family);
+    font-size: var(--body-1-font-size);
+    font-style: var(--body-1-font-style);
+    font-weight: var(--body-1-font-weight);
+    letter-spacing: var(--body-1-letter-spacing);
+    line-height: var(--body-1-line-height);
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
