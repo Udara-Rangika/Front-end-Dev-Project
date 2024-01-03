@@ -24,7 +24,7 @@ function App() {
         <div className="frame-10">
           <img
             className="image"
-            alt="Image"
+            alt=""
             src="https://i.ibb.co/QXVfhmr/image-2.png"
           />
           <div className="frame-11">
@@ -56,7 +56,7 @@ function App() {
           </div>
           <img
             className="image-2"
-            alt="Image"
+            alt=""
             src="https://i.ibb.co/6bzGWwg/image-1.png"
           />
         </div>
